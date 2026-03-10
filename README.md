@@ -1,7 +1,7 @@
 1.  Headline
 SUPER STORE SALES DASHBOARD.
 
-3. Short Description 
+2. Short Description 
 It is an interactive Power BI dashboard developed to analyze retail sales data, visualize key business metrics such as sales, profit, and customer segments, and forecast future sales trends using time series analysis.
 
 3. Tech Stack
@@ -14,7 +14,7 @@ List the key technologies used to build the dashboard.
 • ⏳ Time Series Forecasting – Built-in forecasting feature in Power BI used to analyze historical sales trends and predict future sales.
 • 📁 File Format – .pbix file used for Power BI dashboard development and .png images used for dashboard preview in documentation.
 
-5. Features / Highlights
+4. Features / Highlights
 • 📊 Interactive Power BI Dashboard – Developed an interactive dashboard to analyze retail sales performance across different regions, categories, and customer segments.
 • 📈 Sales Trend Analysis – Visualized monthly sales and profit trends to understand business performance over time.
 • 🌍 Geographical Insights – Used map visualization to analyze sales and profit distribution across different states.
